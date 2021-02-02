@@ -29,7 +29,7 @@ for i in range(7):
 def key_maker(value):
     result = value.rsplit('/', 1)[-1]
     # print('result:', result)
-    return result
+    return result.lower()
 
 final = {}
 redirects = []
