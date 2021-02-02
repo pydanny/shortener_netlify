@@ -52,7 +52,7 @@ with open('data.json', 'w') as f:
 
 redirects.append('ppp    https://www.feldroy.com/products/practical-python-projects')
 
-with open('_redirects', 'w') as f:
+with open('public/_redirects', 'w') as f:
     for redirect in redirects:
         f.write(f'/{redirect}\n')
 
