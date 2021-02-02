@@ -60,7 +60,8 @@ with open('public/_redirects', 'w') as f:
         f.write(f'/{link[0]}    {link[1]}\n')
 
 with open("public/index.html", "w") as f:
-    f.write("<h1>Feldroy Links</h1>")
+    f.write("<h1>Feldroy Shortened Links</h1>")
+    f.write("<p>Many of these exist because the # sign breaks certain PDF readers on files rendered from LaTeX.</p>")
     f.write('<ol>')
     for link in redirects:
         f.write(f'<li><a href="{link[1]}">/{link[0]}</a></li>')
