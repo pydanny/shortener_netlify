@@ -64,14 +64,14 @@
 /2yng5rs    https://www.mkdocs.org/#getting-started
 /2yewrxj    https://docs.djangoproject.com/en/3.0/topics/db/queries/#querysets-are-lazy
 /3ev1duf    https://docs.djangoproject.com/en/3.0/ref/settings/#csrf-cookie-age
-/35c3ney    https://docs.djangoproject.com/en/3.0/ref/settings/#csrf-failure-view
 /2vj1y5e    https://docs.djangoproject.com/en/3.0/topics/i18n/translation/#localized-names-of-languages
-/3f0ezpp    https://docs.djangoproject.com/en/3.0/ref/settings/#email-use-tls
+/35c3ney    https://docs.djangoproject.com/en/3.0/ref/settings/#csrf-failure-view
 /2yriqog    https://docs.djangoproject.com/en/3.0/ref/settings/#csrf-cookie-domain
+/3f0ezpp    https://docs.djangoproject.com/en/3.0/ref/settings/#email-use-tls
 /3boffhx    http://gargoyle.readthedocs.io/en/latest/usage/index.html#testing-switches
 /35gs7t2    http://waffle.readthedocs.io/en/latest/testing/automated.html#testing-automated
-/3bpcmer    https://docs.djangoproject.com/en/3.0/topics/i18n/translation/#standard-translation
 /2yripkc    https://docs.djangoproject.com/en/3.0/topics/i18n/translation/#lazy-translation
+/3bpcmer    https://docs.djangoproject.com/en/3.0/topics/i18n/translation/#standard-translation
 /2vmftk0    https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration
 /2ywrybm    http://www.django-rest-framework.org/api-guide/serializers/#serializing-objects
 /2vjlcyl    https://docs.djangoproject.com/en/3.0/ref/utils/#django.utils.functional.cached_property
@@ -108,8 +108,8 @@
 /3f2iuxt    https://docs.djangoproject.com/en/3.0/ref/forms/renderers/#overriding-built-in-widget-templates
 /3f0u4yc    https://docs.djangoproject.com/en/3.0/ref/templates/api/#django.template.loaders.cached.Loader
 /35d3d6j    https://docs.djangoproject.com/en/3.0/topics/templates/#django.template.backends.jinja2.Jinja2
-/2yjxmwl    https://docs.djangoproject.com/en/3.0/ref/forms/api/#django.forms.Form.non_field_errors
 /2yc93dp    https://docs.djangoproject.com/en/3.0/ref/forms/renderers/#templatessetting
+/2yjxmwl    https://docs.djangoproject.com/en/3.0/ref/forms/api/#django.forms.Form.non_field_errors
 /2xgjoi8    https://docs.djangoproject.com/en/3.0/ref/csrf/#ajax
 /2zd4heb    https://docs.djangoproject.com/en/3.0/ref/forms/validation/#raising-validationerror
 /3bm9poj    https://django-braces.readthedocs.io/en/latest/form.html#userformkwargsmixin
