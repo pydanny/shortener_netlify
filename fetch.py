@@ -36,7 +36,9 @@ redirects = []
 
 for link in links:
     long_url = link['long_url']
-    final[key_maker(link['link'])] = long_url
+    key = key_maker(link['link'])
+    final[key] = long_url
+    redirects.append(f'{key}    {long_url}')
     for bitlink in link['custom_bitlinks']:
         final[key_maker(bitlink)] = long_url
         redirects.append(f'{key_maker(bitlink)}    {long_url}')
@@ -54,5 +56,6 @@ redirects.append('ppp    https://www.feldroy.com/products/practical-python-proje
 
 with open('public/_redirects', 'w') as f:
     for redirect in redirects:
+        print(redirect)
         f.write(f'/{redirect}\n')
 
