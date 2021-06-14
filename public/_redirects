@@ -103,8 +103,8 @@
 /2zaevfh    http://www.django-rest-framework.org/topics/api-clients/#python-client-library
 /2sezssc    http://www.django-rest-framework.org/topics/documenting-your-api/#third-party-packages
 /2ye9ofv    http://www.django-rest-framework.org/topics/api-clients/#javascript-client-library
-/2yc94ar    http://jinja.pocoo.org/docs/dev/api/#jinja2.Environment
-/2vjw4fk    http://jinja.pocoo.org/docs/dev/extensions/#module-jinja2.ext
+/2yc94ar    https://jinja.palletsprojects.com/en/3.0.x/api/#jinja2.Environment
+/2vjw4fk    https://jinja.palletsprojects.com/en/latest/extensions/#module-jinja2.ext
 /3f2iuxt    https://docs.djangoproject.com/en/3.0/ref/forms/renderers/#overriding-built-in-widget-templates
 /3f0u4yc    https://docs.djangoproject.com/en/3.0/ref/templates/api/#django.template.loaders.cached.Loader
 /35d3d6j    https://docs.djangoproject.com/en/3.0/topics/templates/#django.template.backends.jinja2.Jinja2
